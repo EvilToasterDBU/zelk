@@ -18,12 +18,24 @@
 
 /*--------------COLORS---------------*/
 /*------remove / and * to apply------*/
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/blue.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/green.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/gray.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/orange.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/purple.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/red.css); */
+/* Blue color */
+/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/blue.css ); */
+
+/* Green  color */
+/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/green.css ); */
+
+/* Gray color */
+/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/gray.css ); */
+
+/* Orange color */
+/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/orange.css ); */
+
+/* Purple color */
+/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/purple.css ); */
+
+/* Red color */ 
+/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/red.css ); */
+
 
 /*-------------VARIABLES-------------*/
 
@@ -32,11 +44,11 @@
 
 :root {
   /* set to 'unset' to show */
-  --scrollbars: none;
+ /* --scrollbars: none; */
   /* profile notes */
-  --notes: none;
+ /* --notes: none;*/
   /* direct message box */
-  --message: none;
+  /* --message: none; */
   /* set to 'Inter', sans-serif !important to use Inter font*/
   --font-primary: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-display: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
